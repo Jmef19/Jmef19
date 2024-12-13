@@ -1,4 +1,9 @@
-## Hi there 👋
+![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/dbf8221a-2a90-4d4b-bea6-186e0768515d)
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCA55F&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=70&lines=Hello%2C+my+name+is+Juan+Manuel+Escudero+Fern%C3%A1ndez!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Feel+free+to+look+at+my+projects!+%F0%9F%91%80" alt="Typing SVG" /></a>
+</p>
+
 
 <!--
 **Jmef19/Jmef19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
