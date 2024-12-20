@@ -8,10 +8,11 @@
 - 🔧 **Skills**: Python, JavaScript, React, Node.js, and more.
 - 🛠️ **Projects**: Explore my repositories to see my work on web development, algorithms, and data science.
 - 📫 **Contact Me**: 
-  - 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
+  - 🌐 [LinkedIn](https://www.linkedin.com/in/juan-manuel-escudero-fernandez/)
 ---
 
 <p align="center">Thank you for visiting my profile! Feel free to reach out or collaborate! 😊</p>
+
 
 <!--
 **Jmef19/Jmef19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
